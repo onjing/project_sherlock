@@ -1,2 +1,2 @@
-# project_sherlock
+# project_sherlock home's
 서울시 부동산 실거래 공공 데이터를 분석하여 고객 맞춤형 매물 추천 보고서를 제작하고, 외부 데이터와 결합하여 서울시 부동산 가격 예측 모델 개발
